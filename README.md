@@ -1,10 +1,7 @@
 # Naive RAG on the EU AI Act
 
-A small retrieval-augmented generation (RAG) project that answers questions about the EU AI Act
-(Regulation (EU) 2024/1689) and cites the articles it used. Built from scratch, without an
+A small retrieval-augmented generation (RAG) project that answers questions about the EU AI Act and cites the articles it used. Built from scratch, without an
 orchestration framework, to understand every step of the pipeline.
-
-> Not legal advice. Always check answers against the official text.
 
 ## How it works
 
